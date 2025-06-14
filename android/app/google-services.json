@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854594619340",
+    "project_id": "petbud-43a53",
+    "storage_bucket": "petbud-43a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854594619340:android:e6356fd99b0109545f3f69",
+        "android_client_info": {
+          "package_name": "com.technion.petbud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvmydvfSDKdYahN3A5KnaylVXleBONak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
