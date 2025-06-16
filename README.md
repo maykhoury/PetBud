@@ -1,4 +1,7 @@
 # PETBUD
+<p align="center">
+  <img src="images/1024appicon-01.jpg" alt="PetBud Icon" width="150"/>
+</p>
 PetBud is an Android application designed to support the mental well-being of children living with diabetes. It uses a gamified approach to make medication management more engaging and less stressful for children.
 
 ## Motivation
