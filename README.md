@@ -17,4 +17,8 @@ Diabetes management in children can be challenging and stressful. It's crucial t
 * **Notifications**: Parents receive notifications about the virtual pet's health, keeping them informed.
 * **Connection Through Care**: PetBud provides a platform for parents to connect with their child through the care of the virtual pet.
 
+## Development & Technologies
+PetBud was developed using Flutter, allowing for a cross-platform native experience with a single codebase. On the backend, we utilized Firebase to handle authentication, real-time database interactions, and cloud-based logic. Firestore was used for storing user data and syncing pet health states in real-time across parent and child devices. We also leveraged Firebase Cloud Functions to implement serverless backend logic, such as validating medication routines and sending real-time notifications. This architecture gave us full-stack development experience—from building the front-end UI in Flutter, to deploying scalable backend services with Firebase and integrating secure, cloud-native functionality.
 
+## Project Background
+This project was initially developed as part of an academic course at the Technion – Israel Institute of Technology. PetBud was presented at **Hackathon 2023**, where it ranked among the top teams. Following the event, the idea was recognized for its innovation and social impact, and the **Technion invited our team to continue developing the application under its supervision** as part of an extended initiative.
