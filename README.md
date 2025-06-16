@@ -22,3 +22,7 @@ PetBud was developed using Flutter, allowing for a cross-platform native experie
 
 ## Project Background
 This project was initially developed as part of an academic course at the Technion – Israel Institute of Technology. PetBud was presented at **Hackathon 2023**, where it ranked among the top teams. Following the event, the idea was recognized for its innovation and social impact, and the **Technion invited our team to continue developing the application under its supervision** as part of an extended initiative.
+
+### 📌 Project Poster
+
+![PetBud Poster](images/44d8d0f8.png)
